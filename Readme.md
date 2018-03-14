@@ -8,11 +8,11 @@ _Elective for [CS graduate students](https://www.fh-rosenheim.de/technik/informa
 
 **Time and Location:** Thursdays at 1.45p, B0.08
 
-**Communication** on [Mattermost](https://inf-mattermost.fh-rosenheim.de/ml-2018/channels/town-square) ([register](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=xuci9kd4fjrcpkzc64yxxrxw4a)).
+**Communication** on [Mattermost](https://inf-mattermost.fh-rosenheim.de/ml-2018/channels/town-square) ([register](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=xuci9kd4fjrcpkzc64yxxrxw4a)) and via the [Community](https://www.fh-rosenheim.de/community/inf-community/).
 
 **Format:** We'll discuss the foundations of machine learning and how to conduct scientific experiments to analyze system performance.
 
-_Note: This class is taught by Profs. Breunig, Riedhammer and Schmidt; not all materials are available online._
+_Note: This class is taught by Profs. Breunig, Riedhammer and Schmidt; not all materials are available here._
 
 
 **Credits:** Oral exam at the end of the semester, tentative date: July 10.
@@ -124,4 +124,4 @@ by Stuart J. Russell  (Autor),‎ Peter Norvihttps://www.amazon.de/dp/0136042597
 - **July 5: Oral Exams (tentative)**
 
 
-_Subscribe to [https://github.com/sikoried/sprachtechnologien/](https://github.com/sikoried/sprachtechnologien/) repository to follow updates._
+_Subscribe to [https://github.com/hsro-inf-ml/hsro-inf-ml.github.io](https://github.com/hsro-inf-ml/hsro-inf-ml.github.io/) repository to follow updates._
