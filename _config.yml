@@ -9,6 +9,8 @@ baseurl: ""
 exclude:
   - "LICENSE"
   - "Remarks.md"
+  - "*.py"
+  - "*.asc"
 
 github_username: ["sikoried"]
 

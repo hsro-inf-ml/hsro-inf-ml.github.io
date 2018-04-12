@@ -6,7 +6,7 @@ _Elective for [CS graduate students](https://www.fh-rosenheim.de/technik/informa
 
 ## Class Schedule and Credits
 
-**Time and Location:** Thursdays at 1.45p, B0.08
+**Time and Location:** Thursdays at 1.45p, B0.09
 
 **Communication** on [Mattermost](https://inf-mattermost.fh-rosenheim.de/ml-2018/channels/town-square) ([register](https://inf-mattermost.fh-rosenheim.de/signup_user_complete/?id=xuci9kd4fjrcpkzc64yxxrxw4a)) and via the [Community](https://www.fh-rosenheim.de/community/inf-community/).
 
@@ -36,7 +36,7 @@ by Stuart J. Russell  (Autor),‎ Peter Norvihttps://www.amazon.de/dp/0136042597
 	We'll start with series of motivational examples why it's a great idea to study machine learning.
 	We share experiences we've made in our fields: data science, speech and image processing.
 
-- **March 15 (2): Non-parametric and Parametric Classifiers (RiKo)**
+- **March 15 (2): [Non-parametric](/1-knn/) and [Parametric Classifiers](/2-logr/) (RiKo)**
 	
 	We distinguish between _non-parametric_ classifiers, which use part of the training data to make decisions, and _parametric_ classifiers, which use a model _learned from data_ to make decisions.
 	We'll start with the non-parametric _k-nearest-neighbor_ and contrast that with the _parametric_ logistic regression (which is actually a classification).
@@ -69,16 +69,16 @@ by Stuart J. Russell  (Autor),‎ Peter Norvihttps://www.amazon.de/dp/0136042597
 
 - **April 26: Non-parametric Classifiers (BrM)**
 
+	We start at a single neuron (which is related to logistic regression), and work our way up to single and multi-layer perceptrons ("deep neural nets").
+	Learn how _error backpropagation_ can be used to learn these fascinating classifiers.
+
+- **May 3: Artificial Neural Networks (RiKo)**
+	
 	Decision trees are a simple yet powerful non-parametric classifier: they don't rely on statistical distributions but on instances of the training data.
 	We'll discuss how _classification and regression trees (CART)_ can be learned with C4.5.
 	The related random forests combine decision trees and are thus parametric classifiers.
 
 	_Materials available in the [Community](https://www.fh-rosenheim.de/community/inf-community/lehrveranstaltungen/)._
-
-- **May 3: Artificial Neural Networks (RiKo)**
-	
-	We start at a single neuron (which is related to logistic regression), and work our way up to single and multi-layer perceptrons ("deep neural nets").
-	Learn how _error backpropagation_ can be used to learn these fascinating classifiers.
 
 - _May 10: no class (Ascension Day)_
 
