@@ -67,13 +67,13 @@ by Stuart J. Russell  (Autor),‎ Peter Norvihttps://www.amazon.de/dp/0136042597
 
 	_Materials available in the [Community](https://www.fh-rosenheim.de/community/inf-community/lehrveranstaltungen/)._
 
-- **April 26: Non-parametric Classifiers (BrM)**
-
+- **April 26: Artificial Neural Networks (RiKo)**
+	
 	We start at a single neuron (which is related to logistic regression), and work our way up to single and multi-layer perceptrons ("deep neural nets").
 	Learn how _error backpropagation_ can be used to learn these fascinating classifiers.
 
-- **May 3: Artificial Neural Networks (RiKo)**
-	
+- **May 3: Non-parametric Classifiers (BrM)**
+
 	Decision trees are a simple yet powerful non-parametric classifier: they don't rely on statistical distributions but on instances of the training data.
 	We'll discuss how _classification and regression trees (CART)_ can be learned with C4.5.
 	The related random forests combine decision trees and are thus parametric classifiers.
