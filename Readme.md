@@ -82,7 +82,7 @@ by Stuart J. Russell  (Autor),‎ Peter Norvihttps://www.amazon.de/dp/0136042597
 
 - _May 10: no class (Ascension Day)_
 
-- **May 17: [Support Vector Machines](/svm/svm.pdf) (RiKo)**
+- **May 17: [Support Vector Machines](/svm/svm.pdf) ([Stanford CS229 lecture notes](/svm/cs229-notes3.pdf)) (RiKo)**
 
 	Support vector machines are a powerful non-parametric classifier.
 	They are based on large margin optimization, and particularly robust against outliers.
